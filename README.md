@@ -77,7 +77,7 @@
 
 ### Verificando as Versões
 
-Após a instalação, você pode verificar se todas as ferramentas estão com as versões corretas usando os seguintes comandos:
+Após a instalação, você pode verificar se todas as ferramentas estão com as versões corretas dentro no daa pasta do projeto clonado usando os seguintes comandos:
 
 ```bash
 node -v       # Deve retornar v20.10.0
@@ -85,7 +85,30 @@ npm -v        # Deve retornar v10.2.3
 cordova -v    # Deve retornar v12.x.x
 javac -version  # Deve retornar 11.x.x
 gradle -v     # Deve retornar Gradle 7.6
+```
+
+### Com todas as versões corretas siga os proximos passos para clonar o projeto:
+
+- git clone https://github.com/Felipe-Cavalcante-Silva-DEV/TechEcommece
+
+- Navegue até o diretório do projeto clonado:
+```bash
+cd TechEcommece
+```
+- Instalar dependencias do projeto
+ ```bash
+ npm install
+ ```
+
+- Adicionar a Plataforma Android
+```bash
+cordova platform add android
+```
+
+- Com tudo correto e conectado ao emulador/dispositvo android execute o seguinte comando:
+```bash
+cordova run android
+```
 
 
-
-
+### CASO UTILIZE EMULADOR IMPORANTE UTILIZAR ANDROID API 33
