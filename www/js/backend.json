@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/airpod.png",
+        "nome": "Airpod",
+        "categoria": "fones",
+        "principal_caracteristica": "Branco",
+        "rating": 4.5,
+        "likes": "91%",
+        "reviews": 25,
+        "descricao": "Experimente a liberdade musical sem limites com os AirPods! Conectividade instantânea, som cristalino e design elegante. Viva a experiência sem fios que redefine a maneira como você ouve música. AirPods: a revolução do áudio sem esforço.",
+        "detalhes": [
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Bluetooth 5.0 para conexão rápida e estável"
+            },
+            {
+                "caracteristica": "Qualidade de Som",
+                "detalhes": "Áudio nítido e envolvente com tecnologia de cancelamento de ruído"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Ergonômico e discreto, se encaixa perfeitamente no ouvido"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Autonomia de até 5 horas de reprodução contínua, com estojo de carregamento"
+            },
+            {
+                "caracteristica": "Controles",
+                "detalhes": "Toque intuitivo para reprodução, pausa e atendimento de chamadas"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatível com dispositivos iOS, Android e outros equipamentos com Bluetooth"
+            },
+            {
+                "caracteristica": "Sensores",
+                "detalhes": "Sensores integrados para pausa automática ao remover dos ouvidos"
+            },
+            {
+                "caracteristica": "Resistência",
+                "detalhes": "Resistente a respingos e suor, ideal para uso durante exercícios físicos"
+            }
+        ],
+        "preco": 239.99,
+        "preco_promocional": 229.99
+    },
+    {
+        "id": 2,
+        "imagem": "img/iphone.png",
+        "nome": "Iphone 15 Pro Max",
+        "categoria": "celulares",
+        "principal_caracteristica": "2 TB",
+        "rating": 3.8,
+        "likes": "94%",
+        "reviews": 15,
+        "descricao": "Explore o futuro da tecnologia com o iPhone 15 Pro Max. Desempenho excepcional, câmeras revolucionárias, e uma tela impressionante. Experimente a inovação nas suas mãos com design elegante e recursos avançados. iPhone 15 Pro Max - a evolução definitiva da experiência móvel.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Potente processador A16 para execução suave de aplicativos e jogos"
+            },
+            {
+                "caracteristica": "Câmeras",
+                "detalhes": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+            },
+            {
+                "caracteristica": "Segurança",
+                "detalhes": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+            }
+        ],
+        "preco": 15599.99,
+        "preco_promocional": 14999.99
+    },
+    {
+        "id": 3,
+        "imagem": "img/xbox.png",
+        "nome": "Xbox Series X",
+        "categoria": "consoles",
+        "principal_caracteristica": "1 TB",
+        "rating": 4.5,
+        "likes": "96%",
+        "reviews": 25,
+        "descricao": "Explore o ápice do entretenimento gamer com o Xbox Series X. Desfrute de desempenho inigualável, gráficos de última geração e uma experiência imersiva como nunca antes. Xbox Series X - o futuro dos jogos está em suas mãos.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Processador customizado para oferecer jogabilidade suave e gráficos impressionantes"
+            },
+            {
+                "caracteristica": "Gráficos",
+                "detalhes": "Capacidade de reprodução em 4K real, proporcionando visuais incrivelmente detalhados"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD ultra rápido para carregamento instantâneo de jogos e experiência sem lag"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Design arrojado e compacto, complementando qualquer setup gamer"
+            },
+            {
+                "caracteristica": "Controle",
+                "detalhes": "Controle sem fio avançado com tecnologia Bluetooth e gatilhos adaptativos"
+            },
+            {
+                "caracteristica": "Biblioteca de Jogos",
+                "detalhes": "Acesso a uma ampla variedade de jogos, incluindo títulos exclusivos do Xbox Game Studios"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatibilidade retroativa com jogos de Xbox One, Xbox 360 e Xbox original"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Conectividade online estável para experiência multiplayer sem interrupções"
+            },
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "Capaz de suportar até 120 frames por segundo para uma jogabilidade ultrafluida"
+            }
+        ],
+        "preco": 3999.99,
+        "preco_promocional": 3799.99
+    },
+    {
+        "id": 4,
+        "imagem": "img/macbook.png",
+        "nome": "MacBook Pro 2023",
+        "categoria": "laptops",
+        "principal_caracteristica": "512 GB 16GB RAM",
+        "rating": 4.8,
+        "likes": "89%",
+        "reviews": 30,
+        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+            },
+            {
+                "caracteristica": "Teclado",
+                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
+            },
+            {
+                "caracteristica": "Segurança",
+                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+            }
+        ],
+        "preco": 8999.99,
+        "preco_promocional": 8699.99
+    },
+    {
+        "id": 5,
+        "imagem": "img/smartwatch2.png",
+        "nome": "Smartwatch X1",
+        "categoria": "relogios",
+        "principal_caracteristica": "Preto",
+        "rating": 4.7,
+        "likes": "85%",
+        "reviews": 30,
+        "descricao": "O Smartwatch X1 é o seu companheiro perfeito para um estilo de vida ativo. Monitore sua saúde, conecte-se facilmente ao seu smartphone e tenha informações essenciais no seu pulso com estilo.",
+        "detalhes": [
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela AMOLED de 1.5 polegadas com alta definição"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Bateria de longa duração, com até 48 horas de uso contínuo"
+            },
+            {
+                "caracteristica": "Saúde",
+                "detalhes": "Monitoramento de frequência cardíaca, pressão arterial e qualidade do sono"
+            },
+            {
+                "caracteristica": "Notificações",
+                "detalhes": "Receba notificações de chamadas, mensagens e apps diretamente no seu pulso"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Design moderno e confortável, com pulseira ajustável"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatível com dispositivos Android e iOS"
+            }
+        ],
+        "preco": 599.99,
+        "preco_promocional": 549.99
+    },
+    {
+        "id": 6,
+        "imagem": "img/file.png",
+        "nome": "Fones de Ouvido Over-Ear Z2",
+        "categoria": "fones",
+        "principal_caracteristica": "Azul",
+        "rating": 4.8,
+        "likes": "93%",
+        "reviews": 40,
+        "descricao": "Os Fones de Ouvido Over-Ear Z2 oferecem um som imersivo e confortável com cancelamento ativo de ruído, ideal para quem busca qualidade de áudio superior em qualquer ambiente.",
+        "detalhes": [
+            {
+                "caracteristica": "Cancelamento de Ruído",
+                "detalhes": "Tecnologia de cancelamento ativo de ruído para uma experiência sonora sem interrupções"
+            },
+            {
+                "caracteristica": "Som",
+                "detalhes": "Áudio de alta fidelidade com graves profundos e agudos nítidos"
+            },
+            {
+                "caracteristica": "Conforto",
+                "detalhes": "Almofadas macias e ajustáveis para um uso confortável durante longos períodos"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Bateria de até 20 horas de reprodução contínua"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Bluetooth 5.0 para uma conexão estável e de longo alcance"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Design elegante e dobrável para fácil armazenamento"
+            }
+        ],
+        "preco": 399.99,
+        "preco_promocional": 379.99
+    },
+    {
+        "id": 7,
+        "imagem": "img/alien.png",
+        "nome": "Alienware M15",
+        "categoria": "laptops",
+        "principal_caracteristica": "Prata",
+        "rating": 4.6,
+        "likes": "88%",
+        "reviews": 42,
+        "descricao": "O Notebook Ultra X combina desempenho e portabilidade. Perfeito para profissionais e estudantes que precisam de uma máquina poderosa e leve para suas tarefas diárias.",
+        "detalhes": [
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Full HD de 14 polegadas com bordas finas"
+            },
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Processador Intel Core i7 com 16GB de RAM e 512GB SSD"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Bateria com duração de até 10 horas de uso"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Design ultrafino e leve, com apenas 1,2kg"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Wi-Fi 6, Bluetooth 5.1 e várias portas USB-C"
+            }
+        ],
+        "preco": 2999.99,
+        "preco_promocional": 2799.99
+    },
+    {
+        "id": 8,
+        "imagem": "img/camera.png",
+        "nome": "Câmera Digital ProX 5000",
+        "categoria": "cameras",
+        "principal_caracteristica": "Preto",
+        "rating": 4.9,
+        "likes": "92%",
+        "reviews": 51,
+        "descricao": "Capture momentos inesquecíveis com a Câmera Digital ProX 5000. Com sensor de 24MP e lente de alta qualidade, suas fotos e vídeos terão uma definição impressionante.",
+        "detalhes": [
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "Sensor CMOS de 24 megapixels para imagens ultra nítidas"
+            },
+            {
+                "caracteristica": "Lente",
+                "detalhes": "Lente de 18-55mm com estabilização ótica de imagem"
+            },
+            {
+                "caracteristica": "Vídeo",
+                "detalhes": "Gravação em 4K a 30fps"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela LCD de 3.0 polegadas articulada"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Wi-Fi integrado para fácil compartilhamento de fotos"
+            }
+        ],
+        "preco": 2399.99,
+        "preco_promocional": 2199.99
+    },
+    {
+        "id": 9,
+        "imagem": "img/tv3.png",
+        "nome": "Smart TV 50\" Ultra HD",
+        "categoria": "tvs",
+        "principal_caracteristica": "Preta",
+        "rating": 4.7,
+        "likes": "90%",
+        "reviews": 38,
+        "descricao": "Assista aos seus programas e filmes favoritos com uma qualidade de imagem incrível. A Smart TV de 50\" Ultra HD traz recursos avançados e conectividade inteligente para uma experiência de entretenimento imersiva.",
+        "detalhes": [
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Ultra HD 4K com tecnologia HDR"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Sistema Android TV com acesso a diversos apps de streaming"
+            },
+            {
+                "caracteristica": "Som",
+                "detalhes": "Áudio DTS para uma experiência sonora clara e potente"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Wi-Fi integrado e Bluetooth 5.0"
+            },
+            {
+                "caracteristica": "Smart Features",
+                "detalhes": "Controle por voz, Google Assistant e compatibilidade com Alexa"
+            }
+        ],
+        "preco": 2299.99,
+        "preco_promocional": 2099.99
+    }
+    
+]
