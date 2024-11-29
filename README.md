@@ -45,7 +45,7 @@
 3. **JDK (11)**:
 
    - **Windows**: Baixe o JDK 11 do [site oficial da Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) ou use o [OpenJDK 11](https://adoptopenjdk.net/).
-   
+   - ** necessário adicionar caminhos das pastas as variaveis do sistema
    - **Linux/Mac**: Instale o OpenJDK 11 usando o gerenciador de pacotes:
      - **Ubuntu/Debian**:
        ```bash
@@ -68,7 +68,7 @@
        ```
 
    - **Windows**: Baixe o Gradle manualmente do [site oficial](https://gradle.org/releases/) e extraia sua pasta para pasta do Disco Local C:\ .
-     Tudo feito corretamente o caminho do gradle será algo assim   -   C:\Gradle\gradle-7.6.3
+     Tudo feito corretamente o caminho do gradle será algo assim   -   C:\Gradle\gradle-7.6.3       -      obs: Adicionar pasta C:\Gradle\gradle-7.6.3\bin ao Path das variaveis do sistema.
 
    - Verifique a versão instalada com:
      ```bash
@@ -103,6 +103,8 @@ cd TechEcommece
 - Adicionar a Plataforma Android
 ```bash
 cordova platform add android
+caso a execução de erro será necessário executar
+cordova create teste br.com.teste teste e depois execute o comando anterior.
 ```
 
 - Com tudo correto e conectado ao emulador/dispositvo android execute o seguinte comando:
@@ -112,3 +114,5 @@ cordova run android
 
 
 ### CASO UTILIZE EMULADOR IMPORANTE UTILIZAR ANDROID API 33
+### DEPENDENDO DA VERSÃO DO SEU ANDROID STUDIO SERÁ NECESSÁRIO CRIAR OUTRA PASTA ANDROID COM O CAMINHO - C:\android\sdk
+### BAIXAR ANDROID SDK BUILD-TOOLS 34 VERSAO (33.0.2) E ALTERAR O NOVO CAMINHO NAS VARIAVEIS DO SISTEMA AMBOS ANDROID_HOME E PATH.
