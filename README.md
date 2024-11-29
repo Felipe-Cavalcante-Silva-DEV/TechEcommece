@@ -103,9 +103,10 @@ cd TechEcommece
 - Adicionar a Plataforma Android
 ```bash
 cordova platform add android
-caso a execução de erro será necessário executar
-cordova create teste br.com.teste teste e depois execute o comando anterior.
 ```
+- caso a execução de erro será necessário executar
+cordova create teste br.com.teste teste e depois execute o comando anterior.
+
 
 - Com tudo correto e conectado ao emulador/dispositvo android execute o seguinte comando:
 ```bash
