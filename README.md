@@ -1,3 +1,6 @@
+![Aplicativo android de vendas online](www/img/AppAndroid.png)
+
+
 ## Pré-requisitos
 
 - **Node.js**: 20.10.0
